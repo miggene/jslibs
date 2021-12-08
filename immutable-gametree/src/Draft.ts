@@ -1,20 +1,20 @@
 /*
  * @Author: zhupengfei
  * @Date: 2021-12-02 16:27:42
- * @LastEditTime: 2021-12-03 18:03:50
+ * @LastEditTime: 2021-12-08 16:58:44
  * @LastEditors: zhupengfei
  * @Description:
  * @FilePath: /immutable-gametree/src/Draft.ts
  */
 import GameTree from './GameTree';
-import { NodeCache, NodeObject } from './Interface';
+import { IdAliases, NodeCache, NodeObject } from './Interface';
 
 export default class Draft {
 	public base: GameTree;
 	public root: NodeObject;
 	public _passOnNodeCache: boolean = true;
 	public _nodeCache: NodeCache = {};
-	public _idAliases: any;
+	public _idAliases: IdAliases;
 	public _heightCache: number | null;
 	public _structureHashCache: number | null;
 	constructor(base: GameTree) {
@@ -60,7 +60,7 @@ export default class Draft {
 		return level;
 	}
 
-	public appendNode(parentId: number, data: any, options = {}) {
+	public appendNode(parentId: number, data: any, options = {}): number | null {
 		const id = this.base.getId();
 		const success = this.UNSAFE_appendNodeWithId(parentId, id, data, options);
 		if (!success) return null;
@@ -115,11 +115,11 @@ export default class Draft {
 		const node = this.get(id);
 		if (!node) return false;
 		const { parentId } = node;
-		if (!parentId) throw new Error('Cannot remove root node');
-		const parent = this.get(parentId);
+		if (!Number.isInteger(parentId)) throw new Error('Cannot remove root node');
+		const parent = this.get(parentId!);
 		if (!parent) return false;
 		const index = parent.children.findIndex((child) => child.id === id);
-		if (index >= 0) parent.children.slice(index, 1);
+		if (index >= 0) parent.children.splice(index, 1);
 		else return false;
 		this._nodeCache[id] = null;
 		this._structureHashCache = null;
@@ -185,11 +185,15 @@ export default class Draft {
 		return true;
 	}
 
-	updateProperty(id: number, property: string, values: any[]) {
+	updateProperty(id: number, property: string, values: any[] | null) {
 		const node = this.get(id);
 		if (!node) return false;
 		if (!values || values.length === 0) delete node.data[property];
 		else node.data[property] = values;
 		return true;
+	}
+
+	removeProperty(id: number, property: string) {
+		this.updateProperty(id, property, null);
 	}
 }

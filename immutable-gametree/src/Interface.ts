@@ -1,15 +1,18 @@
 /*
  * @Author: zhupengfei
  * @Date: 2021-12-02 16:36:36
- * @LastEditTime: 2021-12-03 18:07:17
+ * @LastEditTime: 2021-12-08 15:47:46
  * @LastEditors: zhupengfei
  * @Description:
  * @FilePath: /immutable-gametree/src/Interface.ts
  */
 
+export interface DataObject {
+	[key: 'W' | 'B' | string]: string[];
+}
 export interface NodeObject {
 	id: number;
-	data: { [key: string]: any[] };
+	data: DataObject;
 	parentId: number | null;
 	children: NodeObject[];
 }

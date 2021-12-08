@@ -11,7 +11,7 @@ import {
 /*
  * @Author: zhupengfei
  * @Date: 2021-12-02 16:42:42
- * @LastEditTime: 2021-12-03 18:07:57
+ * @LastEditTime: 2021-12-08 15:18:05
  * @LastEditors: zhupengfei
  * @Description:
  * @FilePath: /immutable-gametree/src/GameTree.ts
@@ -118,12 +118,20 @@ export default class GameTree {
 		if (!node) return null;
 		if (step === 0) return node;
 		if (step < 0) return this.navigate(node.parentId!, step + 1);
+
 		const nextId =
-			currents![node.id] !== null
+			node.id in currents!
 				? currents![node.id]
 				: node.children.length > 0
 				? node.children[0].id
 				: null;
+
+		// const nextId =
+		// 	currents?[node.id] !== null
+		// 		? currents![node.id]
+		// 		: node.children.length > 0
+		// 		? node.children[0].id
+		// 		: null;
 		if (!nextId) return null;
 		return this.navigate(nextId, step - 1, currents);
 	}
@@ -141,16 +149,16 @@ export default class GameTree {
 		let section = [...this.getSection(level!)!];
 		let index = section.findIndex((node) => node.id === startId);
 		let ret: NodeObject[] = [];
-		while (index > -1) {
+		while (index > -1 && section[index]) {
 			while (index >= 0 && index < section.length) {
 				ret = ret.concat([section[index]]);
 				index += step;
 			}
 			level! += step;
-			section =
-				step > 0
-					? ([] as NodeObject[]).concat(...section.map((node) => node.children))
-					: [...this.getSection(level!)!];
+			const tmp = ([] as NodeObject[]).concat(
+				...section.map((node) => node.children)
+			);
+			section = step > 0 ? tmp : [...this.getSection(level!)!];
 			index = step > 0 ? 0 : section.length - 1;
 		}
 		return ret;
@@ -159,12 +167,12 @@ export default class GameTree {
 	public listNodesVertically(
 		startId: number,
 		step: 1 | -1,
-		currents: CurrentsObject
+		currents?: CurrentsObject
 	): NodeObject[] {
 		const id = startId;
 		let node = this.get(id);
 		let ret: NodeObject[] = [];
-		while (!node) {
+		while (node) {
 			ret.push(node!);
 			node = this.navigate(node!.id, step, currents);
 		}
@@ -189,8 +197,8 @@ export default class GameTree {
 		return len === 0 ? null : len - 1;
 	}
 
-	public getSection(level: number): NodeObject[] | undefined {
-		if (level < 0) return;
+	public getSection(level: number): NodeObject[] {
+		if (level < 0) return [];
 		if (level === 0) {
 			return [this.root];
 		}
@@ -204,14 +212,13 @@ export default class GameTree {
 	public getCurrentHeight(currents: CurrentsObject) {
 		let result = 0;
 		let tmpNode = this.root;
-		while (tmpNode !== null) {
+		while (tmpNode) {
 			result++;
-			tmpNode =
-				currents[tmpNode.id] === null
-					? tmpNode.children[0]
-					: tmpNode.children.find(
-							(child) => child.id === currents[tmpNode.id]
-					  )!;
+			const b =
+				currents[tmpNode.id] === null || currents[tmpNode.id] === undefined;
+			tmpNode = b
+				? tmpNode.children[0]
+				: tmpNode.children.find((child) => child.id === currents[tmpNode.id])!;
 		}
 		return result;
 	}
@@ -221,7 +228,8 @@ export default class GameTree {
 			const inner = (node: NodeObject) => {
 				let max = 0;
 				for (const child of node.children) {
-					max = Math.max(max, inner(child));
+					const tmp = inner(child);
+					max = Math.max(max, tmp);
 				}
 				return max + 1;
 			};
@@ -262,7 +270,7 @@ export default class GameTree {
 			if (
 				parentId !== null &&
 				currents[parentId] !== node.id &&
-				(currents[parentId] !== null ||
+				(Number.isInteger(currents[parentId]) ||
 					this.get(parentId!)?.children[0] !== node)
 			) {
 				return false;
