@@ -26,7 +26,7 @@ describe('HrdHelper', () => {
 
 	test('verifyBoard', () => {
 		function boardMoreChars() {
-			const boardStr = 'HNO@HPQ@BBCCIJAAIIJAA';
+			const boardStr = 'BBCCDD@@EEFFNOAAPQAA';
 			verifyBoard(boardStr);
 		}
 		function boardLessChars() {

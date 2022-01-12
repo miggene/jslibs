@@ -22,7 +22,7 @@
 export const BOARD_SIZE = [5, 4]; //[行、列]
 export const VOID_CHAR = '?';
 export const EMPTY_CHAR = '@';
-export const EMPTY_BLOCK_INDEX = 1;
+export const EMPTY_BLOCK_CHAR_INDEX = 1;
 export const GOAL_BLOCK_INDEX = 2;
 export const GOAL_TYPE_INDEX = 4;
 
