@@ -3,6 +3,7 @@ import {
 	convertBoardPos2Index,
 	convertBoardStr2BoardCharIndexArr,
 	getBlockSize,
+	key2BoardStringArr,
 	verifyBoard,
 } from '../src/HrdHelper';
 import { data } from './data/hrd_answers_straight';
@@ -50,5 +51,11 @@ describe('HrdHelper', () => {
 		expect(boardKey).toBe(1296740350);
 		const boardMirrorKey = boardCharIndexArr2Key(boardCharIndexArr, true);
 		expect(boardMirrorKey).toBe(1903865852);
+	});
+
+	test('key2BoardStringArr', () => {
+		const key = -22858957767;
+		const boardStringArray = key2BoardStringArr(key);
+		expect(boardStringArray.join('')).toBe('CCBBKONJKAAJIAAHI@@H');
 	});
 });

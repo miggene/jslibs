@@ -131,13 +131,13 @@ export function key2BoardStringArr(key: number): string[] {
 	//set prime minister block
 	boardStringArr[primeBlockPos] = blockChars[4];
 	boardStringArr[primeBlockPos + 1] = blockChars[4];
-	boardStringArr[primeBlockPos + BOARD_SIZE[1]] = boardStringArr[4];
-	boardStringArr[primeBlockPos + BOARD_SIZE[1] + 1] = boardStringArr[4];
+	boardStringArr[primeBlockPos + BOARD_SIZE[1]] = blockChars[4];
+	boardStringArr[primeBlockPos + BOARD_SIZE[1] + 1] = blockChars[4];
 
 	key = Math.floor(key / 16); //shift >> 4 bits
 	let blockTypeIndex: number;
 	//倒序
-	for (let i = BOARD_SIZE[0] * BOARD_SIZE[1]; i >= 0; --i) {
+	for (let i = BOARD_SIZE[0] * BOARD_SIZE[1] - 1; i >= 0; --i) {
 		if (boardStringArr[i] === blockChars[4]) continue;
 		blockTypeIndex = key & 0x03; //2 bits
 		key >>= 2; //shift >> 2 bits, now the value <= 32 bits can use bitwise operator
