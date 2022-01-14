@@ -41,7 +41,7 @@ export function verifyBoard(boardStr: string) {
 	const tmpBoard = boardStr.split('');
 	const [totalRow, totalCol] = BOARD_SIZE;
 	let emptyCount = 0;
-	let checkedCharIndexList = [];
+	let checkedCharIndexList:number[] = [];
 	for (let i = 0; i < totalRow; ++i) {
 		for (let j = 0; j < totalCol; ++j) {
 			const blockIndex = convertBoardPos2Index(i, j);

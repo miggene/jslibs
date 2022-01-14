@@ -18,11 +18,11 @@ import {
 } from './HrdHelper';
 import { BoardObj } from './interface/IHrd';
 
-export class Hrd {
+export default class Hrd {
 	private _moveMode: MOVE_MODE = MOVE_MODE.RIGHT_ANGLE_TURN;
-	private _initBoard: number[]; //charIndexArr
-	private _queue: Queue = null;
-	private _hashTable: HashTable = null;
+	private _initBoard: number[] = []; //charIndexArr
+	private _queue: Queue | null = null;
+	private _hashTable: HashTable | null = null;
 	// public _logkey: string = '';
 
 	public init(boardStr: string, boardMoveMode?: MOVE_MODE) {
@@ -43,17 +43,17 @@ export class Hrd {
 	//------------------------------------------------------------
 	public statePropose(boardObj: BoardObj, parentKey: number): number {
 		const { key, board } = boardObj;
-		if (this._hashTable.has(`${key}`)) return 0; //已存在
-		this._hashTable.set(`${key}`, parentKey);
+		if (this._hashTable?.has(`${key}`)) return 0; //已存在
+		this._hashTable?.set(`${key}`, parentKey);
 		if (MIRROR_STATUS) {
 			const currentMirrorKey = boardCharIndexArr2Key(board, true);
-			if (!this._hashTable.has(`${currentMirrorKey}`)) {
-				this._hashTable.set(`${currentMirrorKey}`, parentKey);
+			if (!this._hashTable?.has(`${currentMirrorKey}`)) {
+				this._hashTable?.set(`${currentMirrorKey}`, parentKey);
 			}
 		}
 		// this._logkey += `=>${key}`;
 		// this.printBoard(board, key);
-		this._queue.enqueue({ board: board.slice(), key });
+		this._queue?.enqueue({ board: board.slice(), key });
 		return 1;
 	}
 
@@ -72,8 +72,8 @@ export class Hrd {
 		//Put the initial state to BFS queue & hash map
 		this.statePropose({ board: this._initBoard, key: boardKey }, 0);
 		let exploreCount = 1;
-		while (!this._queue.isEmpty()) {
-			const boardObj = this._queue.dequeue() as BoardObj;
+		while (!this._queue?.isEmpty()) {
+			const boardObj = this._queue?.dequeue() as BoardObj;
 			if (this.reachGoal(boardObj.board)) {
 				this.getAnswerList(boardObj.key, boardList);
 				break;
@@ -96,7 +96,7 @@ export class Hrd {
 	// then put the key value to array
 	//--------------------------------------------------------
 	public getAnswerList(curKey: number, board: number[]) {
-		const value = this._hashTable.get(`${curKey}`);
+		const value = this._hashTable?.get(`${curKey}`);
 		if (value) this.getAnswerList(value, board);
 		board.push(curKey);
 	}
