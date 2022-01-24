@@ -7,4 +7,4 @@ Thumbs.db
 *.sublime-workspace
 *.log
 package-lock.json
-__test__
+**/__test__/

@@ -2,7 +2,7 @@
 	"name": "hrd-solver",
 	"version": "1.0.2",
 	"description": "hua rong dao library",
-	"main": "index.ts",
+	"main": "/dist/hrdLib.bundle.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"build": "webpack --mode=production --node-env=production",
