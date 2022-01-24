@@ -1,8 +1,8 @@
 {
-	"name": "hrd",
-	"version": "1.0.0",
+	"name": "hrd-solver",
+	"version": "1.0.1",
 	"description": "hua rong dao library",
-	"main": "./index.ts",
+	"main": "index.ts",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"build": "webpack --mode=production --node-env=production",
@@ -17,7 +17,7 @@
 		"华容道"
 	],
 	"author": "zpf",
-	"license": "ISC",
+	"license": "MIT",
 	"devDependencies": {
 		"@types/jest": "^27.0.3",
 		"@types/webpack": "^5.28.0",
