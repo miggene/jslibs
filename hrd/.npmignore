@@ -1,3 +1,5 @@
 src/
 node_modules/
 __test__/
+index.ts
+*.config.js
