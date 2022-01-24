@@ -1,6 +1,6 @@
 {
 	"name": "hrd-solver",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"description": "hua rong dao library",
 	"main": "/dist/hrdLib.bundle.js",
 	"scripts": {
@@ -15,6 +15,11 @@
 		"hrd",
 		"hua rong dao",
 		"华容道"
+	],
+	"files": [
+		"dist/src",
+		"dist/hrdLib.bundle.js",
+		"dist/index.d.ts"
 	],
 	"author": "zpf",
 	"license": "MIT",
