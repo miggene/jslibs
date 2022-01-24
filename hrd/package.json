@@ -1,5 +1,5 @@
 {
-	"name": "hrd-solver",
+	"name": "hrd-solver-container",
 	"version": "1.0.6",
 	"description": "hua rong dao library",
 	"main": "/dist/hrdLib.bundle.js",
