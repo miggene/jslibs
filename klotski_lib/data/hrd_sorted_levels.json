@@ -1,0 +1,3286 @@
+[
+	{
+		"name": "Level 06",
+		"mini": 1,
+		"tableId": 3,
+		"board": "BBCCHNOIHAAIJAAKJ@@K"
+	},
+	{
+		"name": "Level 07",
+		"mini": 3,
+		"tableId": 3,
+		"board": "HBBIHCCIJAAKJAAK@NO@"
+	},
+	{
+		"name": "Level 01",
+		"mini": 5,
+		"tableId": 1,
+		"board": "BBCCDD@@EEFFNOAAPQAA"
+	},
+	{
+		"name": "Level 05",
+		"mini": 5,
+		"tableId": 3,
+		"board": "NBBOPCCQ@DD@AAHIAAHI"
+	},
+	{
+		"name": "Level 04",
+		"mini": 6,
+		"tableId": 1,
+		"board": "HNO@HPQ@BBCCIJAAIJAA"
+	},
+	{
+		"name": "7系列:七步成詩",
+		"mini": 7,
+		"board": "HI@JHI@JKLAAKLAANOPQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 02",
+		"mini": 7,
+		"tableId": 1,
+		"board": "BBCCDDEE@NO@HIAAHIAA"
+	},
+	{
+		"name": "Level 03",
+		"mini": 7,
+		"tableId": 1,
+		"board": "N@OPQ@RSTUAAVWAAXYZ"
+	},
+	{
+		"name": "Level 13",
+		"mini": 7,
+		"tableId": 2,
+		"board": "HIJKHIJKNOAABBAAP@@Q"
+	},
+	{
+		"name": "Level 04",
+		"mini": 7,
+		"tableId": 3,
+		"board": "@NBBOCCP@QDDAAHIAAHI"
+	},
+	{
+		"name": "一心一意",
+		"mini": 11,
+		"board": "BBCCHNAAHOAAIPQRI@@S",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 12",
+		"mini": 11,
+		"tableId": 2,
+		"board": "HINOHIJKAAJKAABBP@@Q"
+	},
+	{
+		"name": "Level 08",
+		"mini": 11,
+		"tableId": 3,
+		"board": "HN@@HBBICCOIAADDAAPQ"
+	},
+	{
+		"name": "Level 02",
+		"mini": 12,
+		"tableId": 2,
+		"board": "HNBBHOIJAAIJAACCPQ@@"
+	},
+	{
+		"name": "曹13",
+		"mini": 13,
+		"board": "NAAOPAAQH@@RHSTIUVWI",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "退一步海闊天空",
+		"mini": 13,
+		"board": "NBBOHAAIHAAIJPQKJ@@K",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 07",
+		"mini": 14,
+		"tableId": 1,
+		"board": "NOPQRAAS@AA@HTUIHVWI"
+	},
+	{
+		"name": "似遠實近",
+		"mini": 15,
+		"board": "AABBAACC@@NOHIPJHIQJ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "孔明扇",
+		"mini": 16,
+		"board": "HBBNHAAIJAAIJOKP@QK@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "搖旗放曹",
+		"mini": 17,
+		"board": "NAAOPAAQHRSIHTUIV@@W",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "高枕無憂",
+		"mini": 17,
+		"board": "BBCCAAHIAAHIDDNOPQ@@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 11",
+		"mini": 17,
+		"tableId": 1,
+		"board": "NAAOPAAQRSTUHVWIH@@I"
+	},
+	{
+		"name": "Level 28",
+		"mini": 17,
+		"tableId": 1,
+		"board": "NOBBCCAAHPAAHQRS@@DD"
+	},
+	{
+		"name": "十八步",
+		"mini": 18,
+		"board": "NAAOPAAQRSTUVWXYZ@@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:地地坤",
+		"mini": 18,
+		"board": "HAA@HAA@NOPQRSTUVWXY",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "旭日東昇",
+		"mini": 18,
+		"board": "NOPQRAASTAAUVWXY@BB@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "單兵種的沒落",
+		"mini": 19,
+		"board": "HINOHIJKAAJKAALP@QL@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:山山艮",
+		"mini": 19,
+		"board": "@@AABBAACCDDNOPQRSTU",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:風山漸",
+		"mini": 19,
+		"board": "@@AABBAACCDDEENOPQRS",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "換位思考",
+		"mini": 19,
+		"board": "NAAOHAAPHQRSITUJI@@J",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 13",
+		"mini": 19,
+		"tableId": 1,
+		"board": "NAAOHAAIH@@IJPQKJRSK"
+	},
+	{
+		"name": "伏羲八卦:山地剝",
+		"mini": 20,
+		"board": "@@AABBAACCNOPQRSTUVW",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 14",
+		"mini": 20,
+		"tableId": 1,
+		"board": "N@OPQ@RSTUAAVWAAXYBB"
+	},
+	{
+		"name": "Level 49",
+		"mini": 20,
+		"tableId": 2,
+		"board": "NOHIPQHIBB@@AAJKAAJK"
+	},
+	{
+		"name": "伏羲八卦:風風巽",
+		"mini": 21,
+		"board": "@@AABBAACCDDEEFFNOPQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:地山謙1",
+		"mini": 21,
+		"board": "NAA@OAA@PQBBRSTUVWXY",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "三七二十一",
+		"mini": 21,
+		"board": "NAAOHAAIHP@IJQRKJ@SK",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "身先士卒",
+		"mini": 21,
+		"board": "BBAACCAADDEEFFNOPQ@@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 16",
+		"mini": 21,
+		"tableId": 1,
+		"board": "N@@OPAAQRAASTHIUVHIW"
+	},
+	{
+		"name": "前呼後擁",
+		"mini": 22,
+		"board": "NOAABBAACCDDEEFF@@PQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "近在咫尺4",
+		"mini": 22,
+		"board": "HINOHIPQJKBBJKAA@@AA",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:水地比",
+		"mini": 22,
+		"board": "@@AABBAANOPQCCRSTUVW",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:風地觀",
+		"mini": 22,
+		"board": "@@AABBAACCNODDPQRSTU",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "全民皆兵",
+		"mini": 22,
+		"board": "AAN@AAOPQRSTUVWXYZ@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 10",
+		"mini": 22,
+		"tableId": 3,
+		"board": "BBCCH@@IHAAINAAOPQRS"
+	},
+	{
+		"name": "上下鏡像",
+		"mini": 23,
+		"board": "NAA@OAA@BBCCDDEEFFPQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 22",
+		"mini": 23,
+		"tableId": 2,
+		"board": "NOAABBAACCDDEEFFP@@Q"
+	},
+	{
+		"name": "Level 54",
+		"mini": 23,
+		"tableId": 2,
+		"board": "BBAANOAA@@PQHIJKHIJK"
+	},
+	{
+		"name": "伏羲八卦:天地否",
+		"mini": 24,
+		"board": "@@AABBAACCNODDPQEERS",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:水澤節",
+		"mini": 24,
+		"board": "NAA@OAA@PQRSBBCCTUDD",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "左右逢源",
+		"mini": 25,
+		"board": "AABBAANO@PQ@HIJKHIJK",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 01",
+		"mini": 25,
+		"tableId": 3,
+		"board": "HINJHIOJAAPKAAQK@BB@"
+	},
+	{
+		"name": "伏羲八卦:水水坎",
+		"mini": 26,
+		"board": "HAA@HAA@NOPQBBCCRSTU",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "逃出來啦(上)",
+		"mini": 26,
+		"board": "BBCCH@@NHAAOPAAQDDEE",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "逃出來啦(下)",
+		"mini": 26,
+		"board": "BBCCNAAOHAAPH@@QDDEE",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "同步倒影（上）",
+		"mini": 26,
+		"board": "AABBAANHOPIHQJIK@J@K",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "同步倒影（下）",
+		"mini": 26,
+		"board": "@H@INHJIOPJKAAQKAABB",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 18",
+		"mini": 26,
+		"tableId": 1,
+		"board": "BBAACCAA@HN@IHJOIPJQ"
+	},
+	{
+		"name": "Level 07",
+		"mini": 26,
+		"tableId": 2,
+		"board": "AABBAAHINOHIJPQKJ@@K"
+	},
+	{
+		"name": "VIOLET",
+		"mini": 27,
+		"board": "HAAIHAAIJNOPJQRST@@U",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:澤地萃",
+		"mini": 27,
+		"board": "HAA@HAA@NOPQBBRSCCTU",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:風火家人",
+		"mini": 27,
+		"board": "@@AABBAACCDDEENOPQFF",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "萊希",
+		"mini": 27,
+		"board": "BBAACCAADDEENOP@@QFF",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 25",
+		"mini": 27,
+		"tableId": 1,
+		"board": "NBBHO@@HPAAQIAARICCS"
+	},
+	{
+		"name": "比翼橫空",
+		"mini": 28,
+		"board": "BBAACCAADDEEN@OHP@QH",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "DAISY",
+		"mini": 28,
+		"board": "HAAIHAAINOPQRSTUV@@W",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "PANSY",
+		"mini": 28,
+		"board": "HAAIHAAIJNOKJPQKR@@S",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:火火離",
+		"mini": 28,
+		"board": "NAA@OAA@BBCCPQRSDDEE",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:山天大畜",
+		"mini": 28,
+		"board": "@@AABBAACCDDNOEEPQFF",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:風天小畜",
+		"mini": 28,
+		"board": "NAA@OAA@BBCCDDEEPQFF",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:地雷複",
+		"mini": 28,
+		"board": "@AA@NAAOPQRSTUVWXYBB",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "佳人梳妝（佳人）",
+		"mini": 28,
+		"board": "@@BBAAHNAAHIOJKIPJKQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "佳人梳妝（鏡像）",
+		"mini": 28,
+		"board": "NHIOPHIJAAKJAAKQ@@BB",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "橫行霸道",
+		"mini": 28,
+		"board": "@AA@NAAOPHIQJHIKJRSK",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 11",
+		"mini": 28,
+		"tableId": 2,
+		"board": "HINOHIAAPJAAKJBBK@@Q"
+	},
+	{
+		"name": "伏羲八卦:山火賁",
+		"mini": 29,
+		"board": "NAA@OAA@BBCCPQRSTUDD",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "首尾互換(上)",
+		"mini": 29,
+		"board": "NAA@OAA@BBPQHIJKHIJK",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "首尾互換(下)",
+		"mini": 29,
+		"board": "NAAOHAAIH@@IJPQKJBBK",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 19",
+		"mini": 29,
+		"tableId": 2,
+		"board": "@@AABBAANHOIJHKIJPKQ"
+	},
+	{
+		"name": "Level 45",
+		"mini": 29,
+		"tableId": 2,
+		"board": "AABBAACCDDEEH@NOH@PQ"
+	},
+	{
+		"name": "Level 58",
+		"mini": 29,
+		"tableId": 2,
+		"board": "N@BBHIAAHIAA@JKOPJKQ"
+	},
+	{
+		"name": "伏羲八卦:雷雷震",
+		"mini": 30,
+		"board": "@AA@NAAOPQRSTUVWBBCC",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:水雷屯",
+		"mini": 30,
+		"board": "HAA@HAA@NOPQBBRSTUCC",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "孔明扇2",
+		"mini": 30,
+		"board": "HBBNHAAIJAAIJKOP@KQ@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 44",
+		"mini": 30,
+		"tableId": 1,
+		"board": "NAAOHAAPH@QR@BBSCCDD"
+	},
+	{
+		"name": "Level 23",
+		"mini": 30,
+		"tableId": 2,
+		"board": "AABBAACCDDNOEEPHQ@@H"
+	},
+	{
+		"name": "Level 26",
+		"mini": 30,
+		"tableId": 2,
+		"board": "NOHIBBHIAAPQAACCDD@@"
+	},
+	{
+		"name": "Level 39",
+		"mini": 30,
+		"tableId": 2,
+		"board": "BBAACCAANHDDOHEEP@@Q"
+	},
+	{
+		"name": "Level 40",
+		"mini": 30,
+		"tableId": 2,
+		"board": "BBCCHAANHAAODDEEP@@Q"
+	},
+	{
+		"name": "伏羲八卦:火天大有",
+		"mini": 31,
+		"board": "NAA@OAA@BBCCPQDDEEFF",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "自成鏡像",
+		"mini": 31,
+		"board": "NAA@OAA@BBCCHIPQHIDD",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "鳳凰倒影(鳳)",
+		"mini": 31,
+		"board": "BBN@AAHIAAHIJOKPJQK@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "鳳凰倒影(凰)",
+		"mini": 31,
+		"board": "HNI@HOIPAAJKAAJKBBQ@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 37",
+		"mini": 31,
+		"tableId": 2,
+		"board": "AABBAACCDDNHEEOHPQ@@"
+	},
+	{
+		"name": "捷足先登",
+		"mini": 32,
+		"board": "NAAOPAAQ@BB@HIJKHIJK",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "一橫最容易解的佈局2",
+		"mini": 32,
+		"board": "NAAOHAAIHPQIJBBKJ@@K",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:水山蹇",
+		"mini": 32,
+		"board": "HAA@HAA@NOBBCCPQRSTU",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:雷澤歸妹",
+		"mini": 32,
+		"board": "HAA@HAA@NOPQRSBBCCDD",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "海晏河清",
+		"mini": 32,
+		"board": "BBAAHIAAHICCN@@ODDPQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "四橫定式E",
+		"mini": 33,
+		"board": "NOBBCCAAHPAAHQDD@@EE",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "千里走單騎",
+		"mini": 33,
+		"board": "@AA@NAAOPHQRSHTUVBBW",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 33",
+		"mini": 33,
+		"tableId": 2,
+		"board": "BBCCNOPQAAHIAAHIDD@@"
+	},
+	{
+		"name": "勇闖五關",
+		"mini": 34,
+		"board": "NAAOPAAQBBCCDDEE@FF@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "兵臨曹營",
+		"mini": 34,
+		"board": "NAAOPAAQHBBIHJKI@JK@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:火地晉",
+		"mini": 34,
+		"board": "@AA@NAAOBBPQRSTUCCVW",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "雙頭倆尾",
+		"mini": 34,
+		"board": "BBH@AAH@AAINOJIKPJQK",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "形顛神倒(上)",
+		"mini": 34,
+		"board": "BBAA@HAANHOIJPKIJQK@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 03",
+		"mini": 34,
+		"tableId": 3,
+		"board": "BBNOPH@@IHCCIQAADDAA"
+	},
+	{
+		"name": "伏羲八卦:澤澤兌",
+		"mini": 35,
+		"board": "@AA@NAAOPQRSBBCCDDEE",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:火雷噬嗑",
+		"mini": 35,
+		"board": "HAA@HAA@BBNOPQRSCCDD",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "五將逼宮",
+		"mini": 36,
+		"board": "BBCCHAAIHAAINDDOP@@Q",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "米拉",
+		"mini": 36,
+		"board": "BBAACCAADDN@OEE@PQFF",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "神在內涵",
+		"mini": 36,
+		"board": "AABBAACCDDNO@HEE@HPQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "未卜先知",
+		"mini": 36,
+		"board": "@AA@NAAHIOJHIKJPQKRS",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 03",
+		"mini": 36,
+		"tableId": 2,
+		"board": "BBCCHAAIHAAINOPQ@DD@"
+	},
+	{
+		"name": "7系列:整齊排列",
+		"mini": 37,
+		"board": "NHIOJHIKJPQKAA@@AABB",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "抽梁斷柱",
+		"mini": 37,
+		"board": "NAAOPAAQRBBHCCSH@DD@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 30",
+		"mini": 37,
+		"tableId": 1,
+		"board": "@AA@NAAOHPIJHKIJQKRS"
+	},
+	{
+		"name": "Level 31",
+		"mini": 37,
+		"tableId": 1,
+		"board": "@AA@NAAOPBBHQRSHCCDD"
+	},
+	{
+		"name": "Level 10",
+		"mini": 37,
+		"tableId": 2,
+		"board": "BBHIAAHIAAJKNOJKP@@Q"
+	},
+	{
+		"name": "iPhone關卡1",
+		"mini": 38,
+		"board": "HAAIHAAINOPQRBBST@@U",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "一橫定式B",
+		"mini": 38,
+		"board": "HAANHAAO@@BBIPJKIQJK",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "四橫定式D",
+		"mini": 38,
+		"board": "HNBBHOPQCCAADDAAEE@@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "大喬小喬(下)",
+		"mini": 38,
+		"board": "HI@@HIBBNOAAJKAAJKPQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "形同神異",
+		"mini": 38,
+		"board": "BBAACCAANHOIPHQI@@DD",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "分兵作戰",
+		"mini": 38,
+		"board": "NOBBCCDDHAA@HAA@PQEE",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "丫形優解",
+		"mini": 38,
+		"board": "BBCCAADDAANOH@EEHP@Q",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "一顛快三步(下)",
+		"mini": 38,
+		"board": "BBCC@AA@NAAODDPQEEFF",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "倒影丫解（上）",
+		"mini": 38,
+		"board": "AABBAAHNOPHIJCCIJ@@Q",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "倒影丫解（下）",
+		"mini": 38,
+		"board": "H@@NHBBIOPJIAAJQAACC",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 48",
+		"mini": 38,
+		"tableId": 2,
+		"board": "BBCCHAAIHAAINDDO@PQ@"
+	},
+	{
+		"name": "一路順風",
+		"mini": 39,
+		"board": "HAANHAAOIBBJIPKJ@QK@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "四將連關",
+		"mini": 39,
+		"board": "AABBAACCHIDDHINOP@@Q",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:風水渙",
+		"mini": 39,
+		"board": "HAA@HAA@BBNOCCDDPQRS",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "大喬小喬(上)",
+		"mini": 39,
+		"board": "HINOHIAAPQAAJKBBJK@@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "不惑之前",
+		"mini": 39,
+		"board": "NOPQAAHIAAHIBBJK@@JK",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "一顛快兩步（下）",
+		"mini": 39,
+		"board": "BBCCAANOAAPQ@HDD@HEE",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 05",
+		"mini": 39,
+		"tableId": 2,
+		"board": "HNIOHPIQBBAACCAADD@@"
+	},
+	{
+		"name": "堵塞要道",
+		"mini": 40,
+		"board": "NAAOPAAQHIBBHICC@DD@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "獎盃",
+		"mini": 40,
+		"board": "BBCCHAAIHAAI@DD@NOPQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "POPPY",
+		"mini": 40,
+		"board": "HAAIHAAINBBOPQRST@@U",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:山澤損",
+		"mini": 40,
+		"board": "@AA@NAAOBBPQRSCCTUDD",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "一橫定式C",
+		"mini": 40,
+		"board": "AANHAAOH@@BBPIJKQIJK",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "六將之近在咫尺",
+		"mini": 40,
+		"board": "NO@@BBCCDDEEAAFFAAGG",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "小旋風Ⅱ",
+		"mini": 40,
+		"board": "HNBBHAA@IAAJI@KJOPKQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 20",
+		"mini": 40,
+		"tableId": 2,
+		"board": "H@@NHIOJPIKJAAKQAABB"
+	},
+	{
+		"name": "氣勢洶洶",
+		"mini": 41,
+		"board": "BBAACCAADDHI@@HINOPQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "眾志成城",
+		"mini": 41,
+		"board": "HNBBHAAOIAAPIJ@K@JQK",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "不惑之後",
+		"mini": 41,
+		"board": "@@HIBBHIAAJKAAJKNOPQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "一顛快兩步（上）",
+		"mini": 41,
+		"board": "@HBB@HCCAANOAAPQDDEE",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "一顛快三步(上)",
+		"mini": 41,
+		"board": "BBCCDDNOPAAQ@AA@EEFF",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "倒影等優（上）",
+		"mini": 41,
+		"board": "AABBAAHNCCHIODDIP@@Q",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "倒影等優（下）",
+		"mini": 41,
+		"board": "N@@OPBBHCCIHAAIQAADD",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "合兵一處",
+		"mini": 41,
+		"board": "BBNOCCDDPH@@QHAAEEAA",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "火燒連營",
+		"mini": 41,
+		"board": "H@N@HIOJPIKJAAKQAABB",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "小旋風Ⅰ",
+		"mini": 41,
+		"board": "BBNHOAAHPAAIJQKIJ@K@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "前擋後阻",
+		"mini": 42,
+		"board": "AABBAAHNIJHOIJPQ@CC@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:水火既濟",
+		"mini": 42,
+		"board": "@AA@NAAOPQBBCCRSTUDD",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:雷風恒",
+		"mini": 42,
+		"board": "@AA@NAAOPQBBRSCCDDTU",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "一橫定式D",
+		"mini": 42,
+		"board": "AANOAABB@@PHIJKHIJKQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "孔明扇3",
+		"mini": 42,
+		"board": "NBBHIAAHIAAJOCCJ@PQ@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "桃園三結義",
+		"mini": 43,
+		"board": "@AA@HAAIHBBINOPQRSTU",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "形顛神倒(下)",
+		"mini": 43,
+		"board": "HNI@HOIJPKQJ@KAABBAA",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 30",
+		"mini": 43,
+		"tableId": 2,
+		"board": "BBCCNAAO@AA@HPQIHDDI"
+	},
+	{
+		"name": "Level 43",
+		"mini": 43,
+		"tableId": 2,
+		"board": "NOHIAAHIAAJKPQJKBB@@"
+	},
+	{
+		"name": "四橫定式C",
+		"mini": 44,
+		"board": "BBAAHNAAHOCC@PDD@QEE",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "六將之近在咫尺B",
+		"mini": 44,
+		"board": "HBBIHJKINJK@AACCAA@@",
+		"empty": 3,
+		"tableId": 0
+	},
+	{
+		"name": "木牛流馬",
+		"mini": 44,
+		"board": "HAANHAAIBBOIJ@PKJ@QK",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "龍鳳三胞（兄長）",
+		"mini": 44,
+		"board": "@NO@BBPQAACCAAHIDDHI",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "龍鳳三胞（大妹）",
+		"mini": 44,
+		"board": "BBHIAAHIAACCDDNO@PQ@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "龍鳳三胞（小妹）",
+		"mini": 44,
+		"board": "BBHIAAHIAACCDDNOPQ@@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "貔貅倒影(貔)",
+		"mini": 44,
+		"board": "NBBOHP@IHJ@IQJAACCAA",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "貔貅倒影(貅)",
+		"mini": 44,
+		"board": "BBAANHAAIH@JIO@JPCCQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "一橫定式A",
+		"mini": 45,
+		"board": "HAANHAAOIPJKIQJK@@BB",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "形近神似(上)",
+		"mini": 45,
+		"board": "AABBAACCHNOIHDDIP@@Q",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "形近神似(下)",
+		"mini": 45,
+		"board": "AABBAACCHNOIH@@IPDDQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "閃展騰挪",
+		"mini": 45,
+		"board": "NH@@OHBBAACCAAPQDDEE",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 02",
+		"mini": 45,
+		"tableId": 3,
+		"board": "HNAAHOAAIPJKIQJK@BB@"
+	},
+	{
+		"name": "SNOWDROP",
+		"mini": 46,
+		"board": "HAAIHAAIJBBNJOPQR@@S",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "四橫定式B",
+		"mini": 46,
+		"board": "NOAABBAAHPCCHQDD@@EE",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "小旋風",
+		"mini": 46,
+		"board": "NBBOPAAHIAAHIJQK@J@K",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 47",
+		"mini": 46,
+		"tableId": 2,
+		"board": "NAAHOAAHIBBJIK@JPK@Q"
+	},
+	{
+		"name": "雨聲淅瀝",
+		"mini": 47,
+		"board": "HAANHAAOIBBJIK@JPK@Q",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "7系列:倒扣杯中",
+		"mini": 47,
+		"board": "BBCC@NO@HAAIHAAIPDDQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "孔融讓梨",
+		"mini": 47,
+		"board": "NAA@OAA@BBCCPHDDQHEE",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "轅門射戟Ｂ",
+		"mini": 47,
+		"board": "NBBOHPCCHAA@QAAI@DDI",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "兵分二路",
+		"mini": 48,
+		"board": "BBN@HOCCHPQ@AADDAAEE",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "擾敵之策",
+		"mini": 49,
+		"board": "@AAN@AAOPQHIJKHIJKBB",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "二橫定式B",
+		"mini": 49,
+		"board": "AA@NAA@OHPBBHQIJCCIJ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "一字長蛇陣",
+		"mini": 50,
+		"board": "@AANHAAOHPBBIQCCI@DD",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "一字長蛇陣2",
+		"mini": 50,
+		"board": "AANOAAHPBBHQCCI@DDI@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "星羅棋佈",
+		"mini": 50,
+		"board": "NBBOHCCIHAAIPAAQ@DD@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "二橫定式A",
+		"mini": 51,
+		"board": "AA@NAA@OHIBBHIPJCCQJ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "殊途同歸IV",
+		"mini": 52,
+		"board": "NOBBPHAA@HAA@QCCDDEE",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "兵威將廣",
+		"mini": 52,
+		"board": "AANOAAPQBBCCDDEE@FF@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "四面八方",
+		"mini": 53,
+		"board": "@BB@NCCOHAAIHAAIPDDQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:天天乾",
+		"mini": 53,
+		"board": "NAA@OAA@BBCCDDEEFFGG",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:澤天夬",
+		"mini": 53,
+		"board": "NAA@OAA@PQBBCCDDEEFF",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "四橫定式A",
+		"mini": 53,
+		"board": "NHOPQH@@BBAACCAADDEE",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "麒麟倒影(麒)",
+		"mini": 53,
+		"board": "BBN@OHCCIHAAIPAADDQ@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "麒麟倒影(麟)",
+		"mini": 53,
+		"board": "BBN@HOAAHIAAPICCDDQ@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 42",
+		"mini": 53,
+		"tableId": 1,
+		"board": "H@AAHIAANIBBJOKPJ@KQ"
+	},
+	{
+		"name": "Level 09",
+		"mini": 53,
+		"tableId": 2,
+		"board": "HIAAHIAANOPQJBBKJ@@K"
+	},
+	{
+		"name": "左右佈兵",
+		"mini": 54,
+		"board": "NAAOPAAQHIJKHIJK@BB@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "背水列陣",
+		"mini": 54,
+		"board": "HBBIHNOI@AA@PAAQCCDD",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "牛氣沖天",
+		"mini": 54,
+		"board": "N@@OBBCCHAAIHAAIPDDQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "鞠躬盡瘁",
+		"mini": 55,
+		"board": "HINOHIAAPQAAJBBKJ@@K",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "花間一壺酒",
+		"mini": 55,
+		"board": "@NO@BBCCHAAIHAAIPDDQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "能上能下",
+		"mini": 55,
+		"board": "NHI@OHIPQ@BBAACCAADD",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "二橫最容易解的佈局",
+		"mini": 56,
+		"board": "NAAHOAAHIJBBIJPQ@CC@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "四面楚歌",
+		"mini": 56,
+		"board": "HNOIHAAIPAAJKBBJK@@Q",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "五橫最難的開局",
+		"mini": 56,
+		"board": "AANOAABBCCDDPEE@FFQ@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "7系列:飄在空中",
+		"mini": 57,
+		"board": "HNOIHAAIJAAPJBBK@@QK",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "三英戰呂布",
+		"mini": 57,
+		"board": "AA@HAANHOBBPQIJRSIJ@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 42",
+		"mini": 57,
+		"tableId": 2,
+		"board": "HIAAHIAAJKNOJKBBP@@Q"
+	},
+	{
+		"name": "一路進軍",
+		"mini": 58,
+		"board": "HAANHAAOIJKPIJKQ@BB@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "輪回",
+		"mini": 58,
+		"board": "HNBBHAAOPAAICCQI@DD@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "雙兵爭鋒",
+		"mini": 58,
+		"board": "AABBAANHIO@HIPCCDDQ@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 32",
+		"mini": 58,
+		"tableId": 2,
+		"board": "N@AAHOAAHIP@JIQKJBBK"
+	},
+	{
+		"name": "Level 55",
+		"mini": 58,
+		"tableId": 2,
+		"board": "@AAHIAAHINOJKPQJKBB@"
+	},
+	{
+		"name": "仙人推磨",
+		"mini": 59,
+		"board": "NAA@OAAPHBBQH@IJCCIJ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "浪跡天涯",
+		"mini": 59,
+		"board": "BBAAHIAAHICCDDNOEE@@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 14",
+		"mini": 59,
+		"tableId": 2,
+		"board": "HNAAHIAAOIJPQ@JKBB@K"
+	},
+	{
+		"name": "齊頭並進",
+		"mini": 60,
+		"board": "HAAIHAAINOPQJBBKJ@@K",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "面具",
+		"mini": 60,
+		"board": "HAAIHAAINJKOPJKQ@BB@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "轅門射戟Ａ",
+		"mini": 60,
+		"board": "NBBHCCOHPIAA@IAADDQ@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "砝碼",
+		"mini": 61,
+		"board": "NOPQ@BB@HAAIHAAICCDD",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "陸績懷橘",
+		"mini": 61,
+		"board": "HNOIHAAIJAAKJBBKPQ@@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "旭日東昇2",
+		"mini": 61,
+		"board": "@NO@AAHPAAHQBBCCDDEE",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 15",
+		"mini": 61,
+		"tableId": 2,
+		"board": "NHAAIHAAIBBJOPKJ@@KQ"
+	},
+	{
+		"name": "Level 11",
+		"mini": 61,
+		"tableId": 3,
+		"board": "AAHIAAHIBB@@JNKOJPKQ"
+	},
+	{
+		"name": "圍而不殲",
+		"mini": 62,
+		"board": "HAANHAAOIBBPIJKQ@JK@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "插翅難飛",
+		"mini": 62,
+		"board": "HAANHAAOBBPQICCJI@@J",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "互不相讓",
+		"mini": 62,
+		"board": "HNBBHAA@OAAP@CCQDDEE",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:雷地豫",
+		"mini": 62,
+		"board": "@AA@NAAOHIJKHIJKBBPQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "三羊開泰1",
+		"mini": 62,
+		"board": "NAAOPAAQHBBIHCCI@DD@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "六將之近在咫尺A",
+		"mini": 62,
+		"board": "BBCCHINOHIDDAAEEAA@@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "六將守關6",
+		"mini": 62,
+		"board": "@@@NHAAIHAAIJBBKJCCK",
+		"empty": 3,
+		"tableId": 0
+	},
+	{
+		"name": "困獸猶鬥",
+		"mini": 62,
+		"board": "AANOAABBCCH@DDHPQEE@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "手形優解",
+		"mini": 62,
+		"board": "HIAAHIAAN@OJK@PJKBBQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "同步堂親(兄)",
+		"mini": 62,
+		"board": "AAHNAAH@IBBJIKOJPK@Q",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "同步堂親(弟)",
+		"mini": 62,
+		"board": "AAHNAAH@OBBIJKPIJK@Q",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "虎蹤",
+		"mini": 62,
+		"board": "HBB@HNCCOAAPIAAQI@DD",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "狼影",
+		"mini": 62,
+		"board": "H@BBHAANOAAPIQCCIDD@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "雪擁藍關",
+		"mini": 62,
+		"board": "BBAA@NAAOHPI@HJICCJQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "倒影胡馬",
+		"mini": 62,
+		"board": "NBBOCCDDPAAQHAA@H@EE",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "左右佈兵",
+		"mini": 62,
+		"board": "HAAIHAAI@JK@NJKOPBBQ",
+		"tableId": 3
+	},
+	{
+		"name": "插翅難飛2",
+		"mini": 63,
+		"board": "NBBOHAAIHAAIP@@QCCDD",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "節節高升",
+		"mini": 63,
+		"board": "H@AAHIAANIJ@OPJKBBQK",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "六將之步步高1",
+		"mini": 63,
+		"board": "AA@HAAIHNJI@KJBBKCC@",
+		"empty": 3,
+		"tableId": 0
+	},
+	{
+		"name": "六將守關2",
+		"mini": 63,
+		"board": "@@@HAAIHAAINJKBBJKCC",
+		"empty": 3,
+		"tableId": 0
+	},
+	{
+		"name": "殊途同歸I",
+		"mini": 63,
+		"board": "AAHIAAHI@N@OJKBBJKPQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "電阻優解",
+		"mini": 63,
+		"board": "HBBNHAAIOAAICCDD@PQ@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "有去有回",
+		"mini": 63,
+		"board": "NOPQHIBBHICCAADDAA@@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "一夫當關",
+		"mini": 64,
+		"board": "HIJKHIJK@AA@NAAOBBPQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "形神顛倒(上)",
+		"mini": 64,
+		"board": "HBB@HNAAOPAAIJCCIJQ@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "形神顛倒(下)",
+		"mini": 64,
+		"board": "HIN@HIBBOPAAJQAAJCC@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "四路進兵",
+		"mini": 64,
+		"tableId": 3,
+		"board": "AANHAAOHPQ@@BBCCDDEE"
+	},
+	{
+		"name": "三軍聯防",
+		"mini": 65,
+		"board": "AAHIAAHIBBCCNDDOP@@Q",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "三橫定式A",
+		"mini": 65,
+		"board": "AA@NAA@OHPBBHCCIDDQI",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "扇壺一體(扇)",
+		"mini": 65,
+		"board": "HIBBHIAANJAAOJCC@PQ@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "扇壺一體(壺)",
+		"mini": 65,
+		"board": "@NO@PHBBQHAAIJAAIJCC",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "雲橫秦嶺",
+		"mini": 65,
+		"board": "BBHN@IHJOIPJ@QAACCAA",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "四路進兵2",
+		"mini": 66,
+		"board": "HAA@HAA@NOPQBBCCDDEE",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "大意失荊州",
+		"mini": 66,
+		"board": "@HNIJH@IJAAOKAAPKQBB",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "兵不厭走",
+		"mini": 66,
+		"board": "BBAA@HAANH@OPQCCDDEE",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "7系列:四面楚歌",
+		"mini": 67,
+		"board": "@NO@HBBIHAAIPAAQCCDD",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "井底之蛙",
+		"mini": 68,
+		"board": "NBBOHAAIHAAIPCCQ@DD@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "新鴻門宴Ⅰ",
+		"mini": 68,
+		"board": "NAAHIAAHIJKO@JK@PQBB",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "漩渦乍現2",
+		"mini": 68,
+		"board": "HNBBHAA@@AAOCCPQDDEE",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 16",
+		"mini": 68,
+		"tableId": 2,
+		"board": "NOAAHIAAHIBBPQJK@@JK"
+	},
+	{
+		"name": "四橫最易解的佈局",
+		"mini": 69,
+		"board": "NAAOHAAPHQBBCCDD@EE@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "層層設防3",
+		"mini": 69,
+		"board": "NAAHOAAHPBBIQCCI@DD@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "水中倒影之實",
+		"mini": 69,
+		"board": "@BBNHAAOHAA@IJCCIJPQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "水中倒影之像",
+		"mini": 69,
+		"board": "HINOHIBBJAA@JAAP@CCQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "小孤雁",
+		"mini": 69,
+		"board": "@@AABBAAHCCNHODDPQEE",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "漩渦乍現",
+		"mini": 69,
+		"board": "NBBOHPAAH@AACCQ@DDEE",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 34",
+		"mini": 69,
+		"tableId": 2,
+		"board": "AAHIAAHIBBJK@@JKNOPQ"
+	},
+	{
+		"name": "指揮若定",
+		"mini": 70,
+		"board": "HAAIHAAINBBOJPQKJ@@K",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "桃花園中",
+		"mini": 70,
+		"board": "NAAOHAAIHJKIPJKQ@BB@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "匹馬嘶風",
+		"mini": 70,
+		"board": "AANOAAPQBB@@HIJKHIJK",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:風雷益",
+		"mini": 70,
+		"board": "NAA@OAA@BBHICCHIPQDD",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "旋轉讓道",
+		"mini": 70,
+		"board": "@HINJHIOJAAPKAA@KQBB",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "古稀倒影(上)",
+		"mini": 70,
+		"board": "NBB@HIAAHIAAOJCCPJQ@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "古稀倒影(下)",
+		"mini": 70,
+		"board": "NHO@PHBBIJAAIJAAQCC@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "山窮水盡",
+		"mini": 70,
+		"board": "HAAIHAAIBBNOPJKQ@JK@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "簷浮旭日",
+		"mini": 70,
+		"board": "AA@HAANHIJBBIJ@KOPQK",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 01",
+		"mini": 70,
+		"tableId": 2,
+		"board": "HAAIHAAINBBOJPQKJ@@K"
+	},
+	{
+		"name": "屯兵東路",
+		"mini": 71,
+		"board": "AAHIAAHIBBNOJKPQJK@@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:天雷無妄",
+		"mini": 71,
+		"board": "HAA@HAA@BBNOCCPQDDEE",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "步步高之“義放曹操”",
+		"mini": 71,
+		"board": "BBAAHNAAHICC@IJOP@JQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "活眼倒影(上)",
+		"mini": 71,
+		"board": "HNOPHIBBJI@QJ@AACCAA",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "活眼倒影(下)",
+		"mini": 71,
+		"board": "BBAAH@AAHI@NJICCJOPQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "互生優解",
+		"mini": 71,
+		"board": "HNAAH@AAOIBB@IJKPQJK",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "將擁曹營",
+		"mini": 72,
+		"board": "@AA@HAAIHJKINJKOBBPQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "兵分三路",
+		"mini": 72,
+		"board": "NAAOHAAIHBBIJPQKJ@@K",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "胡馬窺江",
+		"mini": 72,
+		"board": "BB@H@AAHNAAOCCDDPEEQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:地山謙2",
+		"mini": 72,
+		"board": "NAA@OAA@PQBBHIJKHIJK",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "六將之步步高2",
+		"mini": 72,
+		"board": "AANHAAIH@JI@KJBBK@CC",
+		"empty": 3,
+		"tableId": 0
+	},
+	{
+		"name": "首居中道",
+		"mini": 72,
+		"board": "@HAANHAAIJBBIJK@OPKQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "橫駱駝",
+		"mini": 72,
+		"board": "AANHAAIHBBIO@PCCDD@Q",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "雙將擋路",
+		"mini": 73,
+		"board": "HAANHAAOIBBJICCJP@@Q",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "馬首是瞻",
+		"mini": 73,
+		"board": "BBNOCCAAPHAA@HDDEEQ@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:火澤睽",
+		"mini": 73,
+		"board": "HAA@HAA@BBNOPQCCDDEE",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "勿入歧途",
+		"mini": 73,
+		"board": "HAAIHAAIJNO@JBBK@PQK",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "兵隨將轉",
+		"mini": 73,
+		"board": "AANHAAIHJOIPJKBB@KQ@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "左兵右將",
+		"mini": 74,
+		"board": "AAHIAAHINOBBPQJK@@JK",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "夾道藏兵",
+		"mini": 75,
+		"board": "AANHAAOHBBCCDDEEP@@Q",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "六將守關1",
+		"mini": 75,
+		"board": "@@@NAAHIAAHIJKBBJKCC",
+		"empty": 3,
+		"tableId": 0
+	},
+	{
+		"name": "上下求索",
+		"mini": 75,
+		"board": "@AAHIAAHIBBJ@KNJOKPQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "觸角優解(左)",
+		"mini": 75,
+		"board": "@HI@NHIOJBBPJQAACCAA",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "觸角優解(右)",
+		"mini": 75,
+		"board": "BBAAHNAAHCCOPIJQ@IJ@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "平行優解",
+		"mini": 75,
+		"board": "NAA@HAA@HBBOIPQJICCJ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "曹操劃小圈",
+		"mini": 75,
+		"board": "HIN@HIO@BBJPAAJQAACC",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "殊途同歸",
+		"mini": 76,
+		"board": "HIAAHIAAN@O@JBBKJPQK",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "六將守關7",
+		"mini": 76,
+		"board": "H@@@HAAINAAIBBJKCCJK",
+		"empty": 3,
+		"tableId": 0
+	},
+	{
+		"name": "側面虎",
+		"mini": 76,
+		"board": "@NOHAAIHAAIJ@PKJBBKQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "四路進兵",
+		"mini": 77,
+		"board": "NAAOPAAQH@BBH@CCDDEE",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "逆時風車",
+		"mini": 77,
+		"board": "AA@HAA@HIBBNIOJPCCJQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "六將守關4",
+		"mini": 77,
+		"board": "AA@@AABBNOHICCHIDDEE",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "七上八下(上)",
+		"mini": 77,
+		"board": "HIJNHIJOAABBAA@@CCPQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "人形優解",
+		"mini": 77,
+		"board": "AAH@AAHIN@OIJBBKJPQK",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 06",
+		"mini": 77,
+		"tableId": 2,
+		"board": "HAAIHAAINOBBJPQKJ@@K"
+	},
+	{
+		"name": "Level 59",
+		"mini": 77,
+		"tableId": 2,
+		"board": "HIAAHIAABBNJOPQJCC@@"
+	},
+	{
+		"name": "七上八下(下)",
+		"mini": 78,
+		"board": "BBNOAA@@AACCHIJPHIJQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "小鬼難纏",
+		"mini": 78,
+		"board": "HNAAHOAABBPQICCJI@@J",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "水泄不通",
+		"mini": 79,
+		"board": "HAANHAAOBBCCDDEEP@@Q",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:天水訟",
+		"mini": 79,
+		"board": "HAA@HAA@BBNOCCDDEEPQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:風澤中孚",
+		"mini": 80,
+		"board": "HAA@HAA@BBNOCCDDPQEE",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "三顧茅廬",
+		"mini": 80,
+		"board": "AAHIAAHIJNO@JPQ@BBCC",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "八陣圖",
+		"mini": 80,
+		"board": "HAANHAAIOBBIJCCPJ@@Q",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "胸有朝陽",
+		"mini": 80,
+		"board": "AANHAA@HOBBIJK@IJKPQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "橫刀立馬",
+		"mini": 81,
+		"board": "HAAIHAAIJBBKJNOKP@@Q",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "守口如瓶1",
+		"mini": 81,
+		"board": "HAAIHAAINJ@OPJ@QBBCC",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "雲遮霧障",
+		"mini": 81,
+		"board": "HAAIHAAIJBBNJCCOP@@Q",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "異地同心",
+		"mini": 81,
+		"board": "BBNOPHAA@HAACCQ@DDEE",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "三橫定式B",
+		"mini": 81,
+		"board": "AA@NAA@OHPBBHCCIQDDI",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "六將守關3",
+		"mini": 81,
+		"board": "H@NIHAAI@AA@JKBBJKCC",
+		"empty": 3,
+		"tableId": 0
+	},
+	{
+		"name": "江村夕照",
+		"mini": 81,
+		"board": "H@AAHNAAIJK@IJKOPQBB",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "曲水流觴",
+		"mini": 81,
+		"board": "HIAAHIAAJNOPJKBBQK@@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:地天泰",
+		"mini": 82,
+		"board": "@AA@NAAOPQBBHICCHIDD",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "殊途同歸II",
+		"mini": 82,
+		"board": "NAAHIAAHIJOPQJ@@BBCC",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "上屋抽梯",
+		"mini": 82,
+		"board": "HAANHAAOBBPIQCCI@DD@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "睡獅甦醒",
+		"mini": 82,
+		"board": "NOAAPHAAIHBBIJQK@J@K",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 21",
+		"mini": 82,
+		"tableId": 2,
+		"board": "HAAIHAAIBBNJOCCJP@@Q"
+	},
+	{
+		"name": "橫馬當關",
+		"mini": 83,
+		"board": "HAAIHAAIBBCCNJ@OPJ@Q",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:火山旅",
+		"mini": 83,
+		"board": "NAA@OAA@BBCCPQHIDDHI",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "寓巧於拙",
+		"mini": 83,
+		"board": "AANOAABB@CCPHDDIH@QI",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "以逸待勞",
+		"mini": 83,
+		"board": "HAAIHAAIBBCCJNOPJ@@Q",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "一橫最難解的佈局",
+		"mini": 84,
+		"board": "HAANHAAIBBJIKOJPK@@Q",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:澤山鹹",
+		"mini": 85,
+		"board": "@AA@NAAOPQBBCCHIDDHI",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:天山遯",
+		"mini": 86,
+		"board": "NAA@OAA@BBCCDDHPEEHQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "六將守關5",
+		"mini": 86,
+		"board": "@@@HAAIHAAINBBJKCCJK",
+		"empty": 3,
+		"tableId": 0
+	},
+	{
+		"name": "旋轉砝碼",
+		"mini": 86,
+		"board": "NOAA@@AAHPBBHCCIDDQI",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 56",
+		"mini": 86,
+		"tableId": 2,
+		"board": "AAHIAAHIBBCCNOJP@@JQ"
+	},
+	{
+		"name": "兵擋將阻",
+		"mini": 87,
+		"board": "NAAHOAAHIBBPICCQ@DD@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "入地無門",
+		"mini": 87,
+		"board": "HAANHAAOPBBQCCDD@EE@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "順時風車",
+		"mini": 87,
+		"board": "AA@HAANHBBIOJ@IPJCCQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "換離為兌",
+		"mini": 87,
+		"board": "BBNOCCAAPQAADDHI@@HI",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "高位分歧",
+		"mini": 87,
+		"board": "AA@@AANHIOPHIQBBCCDD",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "圈套",
+		"mini": 87,
+		"board": "AA@NAA@OBBPHICCHIQDD",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "大渡橋橫鐵索寒",
+		"mini": 88,
+		"board": "@AA@HAANHBBOPCCIQDDI",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "獨闢蹊徑",
+		"mini": 88,
+		"board": "AAN@AAOPHQBBHICC@IDD",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "諸葛八陣",
+		"mini": 88,
+		"board": "HAA@HAANBBIJK@IJKOPQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:地澤臨",
+		"mini": 89,
+		"board": "HAA@HAA@NOPQIJBBIJCC",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "行百里者半九十",
+		"mini": 90,
+		"board": "BBHNOPHI@AAIQAAJCC@J",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "窮途末路",
+		"mini": 90,
+		"board": "AA@@AANHOPQHBBIJCCIJ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "三羊開泰2",
+		"mini": 90,
+		"board": "NAAOHAAIHPQIBBCC@DD@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "別無選擇",
+		"mini": 90,
+		"board": "AAH@AAH@NIBBJIOKJPQK",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 09",
+		"mini": 90,
+		"tableId": 3,
+		"board": "NBBHAAIHAAIJOCCJ@PQ@"
+	},
+	{
+		"name": "殊途同歸III",
+		"mini": 91,
+		"board": "HAANHAAIBBOICC@@PQDD",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "合久必分",
+		"mini": 91,
+		"board": "AA@HAANHOPIQBBIJ@CCJ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "六將之跋山涉水",
+		"mini": 92,
+		"board": "@NHIAAHIAA@JKBBJK@CC",
+		"empty": 3,
+		"tableId": 0
+	},
+	{
+		"name": "高處不勝寒",
+		"mini": 92,
+		"board": "@AA@HAAIHNOIPBBQCCDD",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "欲罷不能",
+		"mini": 93,
+		"board": "@AAHNAAHIBBJIK@JOKPQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 28",
+		"mini": 93,
+		"tableId": 2,
+		"board": "AAHIAAHIBBNOPCCJQ@@J"
+	},
+	{
+		"name": "魚游春水",
+		"mini": 94,
+		"board": "AAN@AAOPHQBBHCC@DDEE",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "歧路亡羊",
+		"mini": 94,
+		"board": "NHAAOHAABBIPCCIJQ@@J",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "困於赤紱",
+		"mini": 95,
+		"board": "H@NIHAAIOAA@BBCCPQDD",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:雷山小過",
+		"mini": 95,
+		"board": "HAA@HAA@IJBBIJNOCCPQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:山水蒙",
+		"mini": 96,
+		"board": "HAA@HAA@BBNOIJCCIJPQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "顛倒96(陰)",
+		"mini": 96,
+		"board": "NBBHOPIHAAIJAA@J@QCC",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "顛倒96(陽)",
+		"mini": 96,
+		"board": "@NBBAA@HAAIHOPIJQCCJ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "重鏈優解",
+		"mini": 96,
+		"board": "NOAA@HAA@HBBCCIPDDIQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "橫行之將",
+		"mini": 97,
+		"board": "AANOAABBCCP@QHDD@HEE",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:雷水解",
+		"mini": 97,
+		"board": "HAA@HAA@IJNOIJBBCCPQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "步步高3",
+		"mini": 97,
+		"board": "AANHAAIH@OIJBBPJ@CCQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "進退維谷",
+		"mini": 97,
+		"board": "NO@PAAHIAAHIBB@JCCQJ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "H形優解",
+		"mini": 97,
+		"board": "AAN@AA@HIBBHICCOPQDD",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "兵據曹營",
+		"mini": 97,
+		"board": "HNOIHPQIJAA@JAA@BBCC",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "層巒疊嶂",
+		"mini": 98,
+		"board": "HAAIHAAINBBOCCDDP@@Q",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "近在咫尺",
+		"mini": 98,
+		"board": "NHIJOHIJBBPQCCAA@@AA",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "守口如瓶2",
+		"mini": 99,
+		"board": "NAAOHAAIHJ@IPJ@QBBCC",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "列隊歡送2",
+		"mini": 99,
+		"board": "@HIJ@HIJNOPQAABBAACC",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "以退為進",
+		"mini": 99,
+		"board": "@NOPAAHIAAHIBBJQCCJ@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "數位系列: 8",
+		"mini": 99,
+		"board": "HNOIH@PIJQAAJ@AABBCC",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "暗渡陳倉",
+		"mini": 99,
+		"board": "NOPHIAAHIAAQBBCC@DD@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:地火明夷",
+		"mini": 99,
+		"board": "HAA@HAA@NOBBIJPQIJCC",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "不謀而合",
+		"mini": 99,
+		"board": "NOH@AAHPAAIJBBIJCC@Q",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 50",
+		"mini": 99,
+		"tableId": 2,
+		"board": "@@NOPHIJQHIJAABBAACC"
+	},
+	{
+		"name": "百花盛開",
+		"mini": 100,
+		"board": "HINJHIOJ@@PQBBAACCAA",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "古堡藏龍",
+		"mini": 100,
+		"board": "NOHIPQHIAA@JAA@JBBCC",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "相看兩不厭",
+		"mini": 100,
+		"board": "HI@JHI@JNAAOPAAQBBCC",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:地風升",
+		"mini": 100,
+		"board": "HAA@HAA@NOBBIJCCIJPQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "三羊開泰3",
+		"mini": 100,
+		"board": "NAAOHAAIHBBICCDD@PQ@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "百步歧形",
+		"mini": 100,
+		"board": "@HIJNHIJ@OPQAABBAACC",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "進退自如",
+		"mini": 100,
+		"board": "NHI@OHIPAAJQAAJ@BBCC",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "新鴻門宴Ⅱ",
+		"mini": 100,
+		"board": "HAAIHAAIBBCC@NO@DDPQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "孤雁南飛",
+		"mini": 101,
+		"board": "HAAIHAAINOBBPCC@DD@Q",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "高廈一零一",
+		"mini": 101,
+		"board": "AAHNAAHOIBBPICCQ@DD@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "居中斡旋",
+		"mini": 101,
+		"board": "@AA@NAAOHBBIHCCIPQDD",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "開到茶蘼",
+		"mini": 101,
+		"board": "AA@HAANHOPBBICC@IQDD",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "層層設防1",
+		"mini": 102,
+		"board": "HAAIHAAINBBOPCCQ@DD@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "列隊歡送",
+		"mini": 102,
+		"board": "HIJNHIJOBBPQCCAA@@AA",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "數位系列: 0",
+		"mini": 102,
+		"board": "NAAOHAAPH@@IQBBICCDD",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "四兵同心",
+		"mini": 102,
+		"board": "NOH@PQHIAAJIAAJ@BBCC",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "日月同輝",
+		"mini": 102,
+		"board": "@N@HOIJHPIJQAABBAACC",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "甕中之鼈",
+		"mini": 103,
+		"board": "HAAIHAAIBBCCNDDOP@@Q",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "二橫最難解的佈局",
+		"mini": 103,
+		"board": "NAAHOAAHBBIJPQIJ@CC@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "異位同步(上)",
+		"mini": 103,
+		"board": "N@HIAAHIAA@JBBOJPQCC",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "異位同步(下)",
+		"mini": 103,
+		"board": "N@@HAAIHAAIJBBOJPQCC",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "披甲持螯",
+		"mini": 103,
+		"board": "H@@IHAAINAAOBBCCPDDQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 29",
+		"mini": 103,
+		"tableId": 2,
+		"board": "NOHI@JHIPJQ@AABBAACC"
+	},
+	{
+		"name": "離而不坎",
+		"mini": 104,
+		"board": "HAAIHAAIBB@NOPCCDD@Q",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "近在咫尺2",
+		"mini": 105,
+		"board": "HINOHIJPBBJQCCAA@@AA",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "近在咫尺3",
+		"mini": 105,
+		"board": "@HNOIHJPIQJ@BBAACCAA",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 52",
+		"mini": 105,
+		"tableId": 2,
+		"board": "HAANHAAOIBB@IJPQ@JCC"
+	},
+	{
+		"name": "數位系列: 6",
+		"mini": 106,
+		"board": "AAHNAAH@OPBBI@CCIDDQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "花車",
+		"mini": 106,
+		"board": "@AA@HAAIHBBICCDDNOPQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "字母系列I",
+		"mini": 106,
+		"board": "HAANHAAO@BB@IJPQIJCC",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "分久必合",
+		"mini": 106,
+		"board": "AANOAAHIBBHIPCCJQ@@J",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "寄人籬下",
+		"mini": 106,
+		"board": "@HAANHAAOPBBCCIQDDI@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "陳兵西陲",
+		"mini": 107,
+		"board": "NAAHOAAHPBBIQ@JICCJ@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "山在虛無縹緲間",
+		"mini": 107,
+		"board": "NH@OPH@QIAAJIAAJBBCC",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "7系列:步履維艱",
+		"mini": 107,
+		"board": "NAAOHAA@HIBBJIPQJCC@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "野馬分鬃",
+		"mini": 107,
+		"board": "@HAANHAA@BBICCOIPDDQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 46",
+		"mini": 107,
+		"tableId": 2,
+		"board": "@HAANHAABBOP@CCIQDDI"
+	},
+	{
+		"name": "水滸聚義",
+		"mini": 108,
+		"board": "HNIJH@IJ@AAOPAAQBBCC",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "伏羲八卦:山雷頤",
+		"mini": 108,
+		"board": "HAA@HAA@BBNOIJPQIJCC",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "將士一心",
+		"mini": 108,
+		"board": "AAH@AAHNOPBBICCQIDD@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "小汽車",
+		"mini": 109,
+		"board": "HNO@HIAA@IAAJPBBJCCQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "馮京馬涼2",
+		"mini": 109,
+		"board": "NAAO@AAPH@BBHCCIDDQI",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "拳頭",
+		"mini": 109,
+		"board": "NAAHOAAHPQBBCCIJ@@IJ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "運兵陰平",
+		"mini": 109,
+		"board": "NAAOPAAHBB@HI@CCIQDD",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "流水行雲",
+		"mini": 110,
+		"board": "AAH@AAH@NOBBPQIJCCIJ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 57",
+		"mini": 110,
+		"tableId": 2,
+		"board": "NO@HAAIHAAIJBBPJQCC@"
+	},
+	{
+		"name": "單身的小兵",
+		"mini": 111,
+		"board": "@NHOAAHIAAPIQBBJ@CCJ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "三一奇陣",
+		"mini": 111,
+		"board": "AA@HAANHOPBB@QIJCCIJ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "前後夾攻",
+		"mini": 112,
+		"board": "@HNIOH@IJPAAJQAABBCC",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "曹沖稱象",
+		"mini": 113,
+		"board": "AANHAAIH@OIP@BBJCCQJ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 35",
+		"mini": 115,
+		"tableId": 2,
+		"board": "HNAAHIAAOI@PJQBBJ@CC"
+	},
+	{
+		"name": "生機盎然",
+		"mini": 116,
+		"board": "AA@HAANH@OIPBBIJCCQJ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "字母系列F",
+		"mini": 116,
+		"board": "HNAAHIAAOIP@JQBBJCC@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "7系列:自動報時",
+		"mini": 117,
+		"board": "@HNOPHAAIJAAIJBBCCQ@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "字母系列L",
+		"mini": 117,
+		"board": "AAN@AAO@PBBQHCCIHDDI",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "層層設防2",
+		"mini": 120,
+		"board": "NAAOHAAIHBBIPCCQ@DD@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "數位系列: 2",
+		"mini": 121,
+		"board": "NAAO@AAHIBBHICC@PDDQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "馮京馬涼",
+		"mini": 122,
+		"board": "AA@NAAOPHQBBHCCIDD@I",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "坦克",
+		"mini": 123,
+		"board": "@AA@NAAOHBBIHCCIPDDQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "Level 36",
+		"mini": 124,
+		"tableId": 2,
+		"board": "NAAOHAAPHBBQCCI@DDI@"
+	},
+	{
+		"name": "Level 53",
+		"mini": 124,
+		"tableId": 2,
+		"board": "AANOAAPHBB@HQ@IJCCIJ"
+	},
+	{
+		"name": "瓊瑤敲碎",
+		"mini": 125,
+		"board": "@AANOAAHBB@HIPCCIDDQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "字母系列C",
+		"mini": 125,
+		"board": "NOAAHPAAHBB@IJQ@IJCC",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "數位系列: 3",
+		"mini": 126,
+		"board": "NAAO@AAHPBBH@ICCQIDD",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "數位系列: 7",
+		"mini": 126,
+		"board": "AANOAAPHBBIH@QIJ@CCJ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "字母系列P",
+		"mini": 126,
+		"board": "NAAOHAAPH@BBCCIQDDI@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "虛與委蛇2",
+		"mini": 128,
+		"board": "AANOAAPH@@IHBBIJQCCJ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "數位系列: 9",
+		"mini": 130,
+		"board": "HNAAH@AABBOP@CCIQDDI",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "虛與委蛇",
+		"mini": 131,
+		"board": "AANHAA@HO@BBPICCQIDD",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "數位系列: 1",
+		"mini": 131,
+		"board": "@NO@AAPHAAIHBBIJQCCJ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "字母系列U",
+		"mini": 131,
+		"board": "N@OPH@AAHIAAJIBBJCCQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "百步穿楊",
+		"mini": 132,
+		"board": "H@AAHNAABBOICCPI@QDD",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "數位系列: 4",
+		"mini": 133,
+		"board": "H@AAHNAABBIOCCIP@DDQ",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "字母系列H",
+		"mini": 134,
+		"board": "N@OHAAPHAAIJBBIJQ@CC",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "字母系列N",
+		"mini": 134,
+		"board": "NO@HAAPHAAIJBBIJQ@CC",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "小兵探路",
+		"mini": 135,
+		"board": "AANHAA@H@IBBOICCPQDD",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "數字系列4-2",
+		"mini": 135,
+		"board": "N@OHAAPHAAIJBBIJ@QCC",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "字母糸列A",
+		"mini": 135,
+		"board": "NHOPIHAAI@AAJBBQJ@CC",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "字母系列T",
+		"mini": 137,
+		"board": "HNOPHIAAJIAAJBBQ@CC@",
+		"empty": 2,
+		"tableId": 0
+	},
+	{
+		"name": "峰迴路轉",
+		"mini": 138,
+		"board": "NOPHAAIHAAIJ@BBJ@QCC",
+		"empty": 2,
+		"tableId": 0
+	}
+]
