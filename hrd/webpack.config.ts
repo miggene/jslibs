@@ -4,7 +4,7 @@ import * as webpack from 'webpack';
 import 'webpack-dev-server';
 
 const config: webpack.Configuration = {
-	entry: './src/Hrd.ts',
+	entry: './index.ts',
 	module: {
 		rules: [
 			{
@@ -19,9 +19,9 @@ const config: webpack.Configuration = {
 	},
 	output: {
 		path: path.resolve(__dirname, 'dist'),
-		filename: 'hrd.bundle.js',
+		filename: 'hrdLib.bundle.js',
 		library: {
-			name: 'hrdLib',
+			name: 'HrdLib',
 			type: 'umd',
 		},
 	},

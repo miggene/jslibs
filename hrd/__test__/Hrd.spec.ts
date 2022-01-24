@@ -1,4 +1,4 @@
-import { Hrd } from '../src/Hrd';
+import Hrd from '../src/Hrd';
 import { data } from './data/hrd_answers_straight';
 
 describe('Hrd', () => {

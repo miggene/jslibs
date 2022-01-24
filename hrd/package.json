@@ -1,8 +1,8 @@
 {
-	"name": "my-webpack-project",
+	"name": "hrd",
 	"version": "1.0.0",
-	"description": "My webpack project",
-	"main": "/dist/hrd.bundle.js",
+	"description": "hua rong dao library",
+	"main": "./index.ts",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"build": "webpack --mode=production --node-env=production",
@@ -11,8 +11,12 @@
 		"watch": "webpack --watch",
 		"serve": "webpack serve"
 	},
-	"keywords": [],
-	"author": "",
+	"keywords": [
+		"hrd",
+		"hua rong dao",
+		"华容道"
+	],
+	"author": "zpf",
 	"license": "ISC",
 	"devDependencies": {
 		"@types/jest": "^27.0.3",
